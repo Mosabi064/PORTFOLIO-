@@ -180,7 +180,7 @@ h1 {
   place-items: center;
   background: linear-gradient(135deg, var(--accent), var(--blue));
   color: #08101c;
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: 900;
   border: 5px solid rgba(255,255,255,.1);
 }
